@@ -6,7 +6,6 @@ public class User {
     private String password;
     private String email;
 
-    // Getters and Setters
     public int getId() {
         return id;
     }

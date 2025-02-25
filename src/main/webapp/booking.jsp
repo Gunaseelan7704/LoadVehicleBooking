@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <title>Booking</title>
     <style>
-        /* Navbar Styles */
         nav ul {
             list-style: none;
             padding: 0;
@@ -24,7 +23,6 @@
         nav ul li a:hover {
             background-color: #575757;
         }
-        /* Responsive Navbar */
         @media (max-width: 600px) {
             nav ul {
                 flex-direction: column;
@@ -32,7 +30,6 @@
             }
         }
 
-        /* Page Styles */
         body {
             font-family: Arial, sans-serif;
             margin: 0;

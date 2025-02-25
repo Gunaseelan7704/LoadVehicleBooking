@@ -8,7 +8,6 @@ public class Booking {
     private String truckType;
     private float loadWeight;
 
-    // Getters and Setters
     public int getId() {
         return id;
     }
